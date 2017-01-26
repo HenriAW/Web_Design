@@ -2,7 +2,7 @@
 while true
 do
 	git add --all
-	git commit -m "Automatic update"
+	git commit -m "I should be using Jenkins..."
 	git push
 	sleep 30
 done
