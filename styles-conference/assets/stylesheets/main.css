@@ -118,3 +118,13 @@ h1,h3,h4,h5, p {
   clear: both;
   *zoom: 1;
 }
+
+/*
+  ==============
+  Primary header
+  ==============
+*/
+
+.logo {
+  float: left;
+}
