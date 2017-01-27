@@ -191,6 +191,7 @@ h1,h3,h4,h5, p {
 }
 
 body {
+  background: #293f50
   color: #888;
   font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, snas-serif;
 }
@@ -303,9 +304,4 @@ h5 {
 
 .nav {
   text-align: right;
-}
-
-html {
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/6/66/Tommy-Wiseau-3.jpg);
-  background-repeat: no-repeat;
 }
