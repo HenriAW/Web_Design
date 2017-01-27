@@ -181,6 +181,7 @@ h1,h3,h4,h5, p {
   padding-right: 30px;
 }
 
-html {
-  color: #555;
+body {
+  color: #888;
+  font: 300 16px/22px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
