@@ -272,3 +272,21 @@ a {
 .teaser a:hover h3 {
   color: #a9b2b9;
 }
+
+a {
+  color: #648880;
+  text-decoration: none;
+}
+a:hover {
+  color: #a9b2b9;
+}
+/*LINK STYLING*/
+p a {
+  border-bottom: 1px solid #dfe2e5
+}
+h5 {
+  color: #a9b2b9;
+  font-size: 14px;
+  font-weight: 400;
+  text-transform: uppercase;
+}
