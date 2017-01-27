@@ -300,3 +300,9 @@ h5 {
 .nav {
   text-align: right;
 }
+
+/* The font */
+body {
+  color: #888;
+  font 300 16/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, snas-serif;
+}
