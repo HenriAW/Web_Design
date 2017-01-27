@@ -305,3 +305,13 @@ h5 {
 .nav {
   text-align: right;
 }
+
+/*Header and footer colours*/
+.primary-header a,
+.primary-footer a {
+  color: #fff
+}
+.primary-header a:hover,
+.primary-footer a:hover {
+  color: 648880;
+}
