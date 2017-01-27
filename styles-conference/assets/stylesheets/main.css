@@ -326,3 +326,11 @@ h5 {
 .primary-footer a:hover {
   color: #648880;
 }
+
+/* ROWS */
+
+.row {
+  background: #fff;
+  min-width: 960px;
+  padding: 66px 0 44px 0;
+}
