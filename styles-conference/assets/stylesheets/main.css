@@ -192,7 +192,7 @@ h1,h3,h4,h5, p {
 
 body {
   color: #888;
-  font: 300 16/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, snas-serif;
+  font: 300 16px/22px "Lato", "Open Sans", "Helvetica Neue", Helvetica, Arial, snas-serif;
 }
 
 h1, h2, h3, h4 {
@@ -249,7 +249,7 @@ a {
   font-weight: 100;
   letter-spacing: .5px;
   line-height: 44px;
-  padding: 40px 0 22px 0
+  padding: 40px 0 22px 0;
   text-transform: uppercase;
 }
 
